@@ -3,17 +3,17 @@ This repo is to solve coding challenges, in order to practice algorithms and dat
 
 ### Weekly Challenge [March 8th-14th]
 
-[ | ] [Number of 1 Bits](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/565/)
+[ | ] [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 
-[ | ] [Two Sum](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/)
+[ | ] [1.Two Sum](https://leetcode.com/problems/two-sum/)
 
-[ | ] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+[ | ] [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 
 ### Weekly Challenge [March 1st-7th]
 
-[ | ] [Rotate Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/)
+[ | ] [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
 
-[ | ] [Rotate Image](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/770/)
+[ | ] [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
 
 
 Note: Mark with an X when completed
