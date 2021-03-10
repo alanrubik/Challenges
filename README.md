@@ -5,7 +5,7 @@ This repo is to solve coding challenges, in order to practice algorithms and dat
 
 [ | ] [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 
-[ | ] [1.Two Sum](https://leetcode.com/problems/two-sum/)
+[ |X] [1.Two Sum](https://leetcode.com/problems/two-sum/)
 
 [ | ] [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 
