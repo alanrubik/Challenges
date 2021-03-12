@@ -1,7 +1,7 @@
 # Challenges
 This repo is to solve coding challenges, in order to practice algorithms and data structures
 
-### Weekly Challenge [March 8th-14th]
+### Weekly Challenge [March 15th-21st]
 
 [ | ] [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 
