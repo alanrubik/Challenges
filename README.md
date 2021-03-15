@@ -3,7 +3,7 @@ This repo is to solve coding challenges, in order to practice algorithms and dat
 
 ### Weekly Challenge [March 15th-21st]
 
-[ | ] [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+[ |X] [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 
 [ | ] [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 
