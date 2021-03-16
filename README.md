@@ -17,7 +17,7 @@ This repo is to solve coding challenges, in order to practice algorithms and dat
 
 ### Weekly Challenge [March 1st-7th]
 
-[ | ] [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
+[ |X] [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
 
 [ | ] [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
 
