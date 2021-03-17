@@ -1,11 +1,19 @@
 # Challenges
 This repo is to solve coding challenges, in order to practice algorithms and data structures
 
+### Weekly Challenge [March 22nd-28th]
+
+
+[ | ] [136. Single Number](https://leetcode.com/problems/single-number/)
+
+[ | ] [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+
+
 ### Weekly Challenge [March 15th-21st]
 
 [ |X] [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 
-[ | ] [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+[ |X] [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 
 
 ### Weekly Challenge [March 8th-14th]
