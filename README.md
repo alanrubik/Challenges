@@ -8,6 +8,8 @@ This repo is to solve coding challenges, in order to practice algorithms and dat
 
 [ | ] [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 
+[ | ] [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+
 
 ### Weekly Challenge [March 15th-21st]
 
