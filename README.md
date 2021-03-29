@@ -10,7 +10,7 @@ This repo is to solve coding challenges, in order to practice algorithms and dat
 ### Weekly Challenge [March 22nd-28th]
 
 
-[ | ] [136. Single Number](https://leetcode.com/problems/single-number/)
+[ |X] [136. Single Number](https://leetcode.com/problems/single-number/)
 
 [ | ] [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 
