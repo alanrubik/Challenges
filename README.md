@@ -1,14 +1,18 @@
 # Challenges
 This repo is to solve coding challenges, in order to practice algorithms and data structures
 
+### Weekly Challenge [March 29th- April 4th]
+
+[ | ] [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+
+[ | ] [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+
 ### Weekly Challenge [March 22nd-28th]
 
 
 [ | ] [136. Single Number](https://leetcode.com/problems/single-number/)
 
 [ | ] [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
-
-[ | ] [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 
 
 ### Weekly Challenge [March 15th-21st]
