@@ -4,65 +4,79 @@
 // twice except for one. Find that single one.
 
 
-void deleteElement(int *nums, int numsSize, int elemPos);
+#include <stdbool.h>
 
 
-int singleNumber(int *nums, int numsSize)
-{
-    int unique;
-    int left = 0;
-    int right = left + 1;
+// Solution - List Operation
+//
+// Algorithm:
+// 1. Iterate over all the elements in nums
+// 2. If some number in nums is new to array, append it
+// 3. If some number is already in the array, remove it
 
-    for (;;)
+int valueInArray(int* array, int arraySize, int value);
+void deleteElement(int* array, int arraySize, int pos);
+
+int singleNumber(int* nums, int numsSize){
+    
+    int i;
+    int j = 0;
+    int pos;
+    bool isInArray = false;
+    int* seen = (int*)malloc(numsSize * sizeof(int));
+    
+    // Iterate over all the elements of nums
+    for(i = 0; i < numsSize; i++)
     {
-        if (nums[left] == nums[right])
+        isInArray = valueInArray(seen, numsSize, nums[i]);
+        printf("is in array = %d", isInArray);
+        
+        if(isInArray)   // If some number in nums is new to array (seen), append it
         {
-            deleteElement(nums, numsSize, right);
-            numsSize -= 1;
-            left++;
-
-            if (left + 1 < numsSize - 1)
-            {
-                right = left + 1;
-            }
-            else
-            {
-                unique = nums[left];
-                break;
-            }
+            seen[j] = nums[i];
+            j++;
         }
-
-        else
+        else    // If some number is already in the array, remove it
         {
-            if (right + 1 >= numsSize)
-            {
-                unique = nums[left];
-                break;
-            }
-            else
-            {
-                right++;
-            }
+            //deleteElement(seen, numsSize, pos);   
         }
     }
-
-    return (unique);
+    
+    // Print array values
+    for(i = 0; i < numsSize; i++)
+    {   
+        printf("%d\n", seen[i]);        
+    }
+       
+    return seen[0];
 }
 
-void deleteElement(int *nums, int numsSize, int elemPos)
+
+int valueInArray(int* array, int arraySize, int value)
 {
     int i;
-
-    if (elemPos >= numsSize + 1)
+    bool isInArray = false;
+    
+    for(i = 0; i < arraySize - 1; i++)
     {
-        printf("Deletion not possible\n");
-    }
-    else
-    {
-        for (i = elemPos; i < numsSize - 1; i++)
+        if(value == array[i])
         {
-            nums[i] = nums[i + 1];
+            isInArray = true;
+            break;
         }
+    }
+    
+    return isInArray;
+}
+
+
+void deleteElement(int* array, int arraySize, int pos)
+{
+    int i;
+    
+    for(i = pos - 1; i < arraySize - 1; i++)
+    {
+        array[i] = array[i+1];
     }
 }
  
