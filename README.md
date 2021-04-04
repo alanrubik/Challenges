@@ -1,6 +1,12 @@
 # Challenges
 This repo is to solve coding challenges, in order to practice algorithms and data structures
 
+### Weekly Challenge [April 5th - 11th]
+
+[ | ] [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
+
+[ | ] [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+
 ### Weekly Challenge [March 29th- April 4th]
 
 [ | ] [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
