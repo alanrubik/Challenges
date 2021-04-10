@@ -1,6 +1,12 @@
 # Challenges
 This repo is to solve coding challenges, in order to practice algorithms and data structures
 
+### Weekly Challenge [April 12th - 18th]
+
+[ | ] [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+
+[ | ] [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+
 ### Weekly Challenge [April 5th - 11th]
 
 [ | ] [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
