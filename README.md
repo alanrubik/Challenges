@@ -1,6 +1,12 @@
 # Challenges
 This repo is to solve coding challenges, in order to practice algorithms and data structures
 
+### Weekly Challenge [April 19th - 25th]
+
+[ | ] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+
+[ | ] [38. Count and Say](https://leetcode.com/problems/count-and-say/)
+
 ### Weekly Challenge [April 12th - 18th]
 
 [ | ] [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
