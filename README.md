@@ -1,6 +1,13 @@
 # Challenges
 This repo is to solve coding challenges, in order to practice algorithms and data structures
 
+### Weekly Challenge [April 26th - May 2nd]
+
+[ | ] [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+
+[ | ] [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)
+
+
 ### Weekly Challenge [April 19th - 25th]
 
 [ | ] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
