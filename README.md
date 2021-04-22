@@ -10,7 +10,7 @@ This repo is to solve coding challenges, in order to practice algorithms and dat
 
 ### Weekly Challenge [April 19th - 25th]
 
-[ | ] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+[ |X] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 
 [ | ] [38. Count and Say](https://leetcode.com/problems/count-and-say/)
 
