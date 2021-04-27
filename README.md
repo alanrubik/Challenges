@@ -5,7 +5,7 @@ This repo is to solve coding challenges, in order to practice algorithms and dat
 
 [ | ] [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 
-[ | ] [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)
+[ |X] [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 
 
 ### Weekly Challenge [April 19th - 25th]
