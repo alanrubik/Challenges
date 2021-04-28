@@ -49,7 +49,7 @@ This repo is to solve coding challenges, in order to practice algorithms and dat
 
 ### Weekly Challenge [March 8th-14th]
 
-[ | ] [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+[ |X] [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 
 [ |X] [1.Two Sum](https://leetcode.com/problems/two-sum/)
 
