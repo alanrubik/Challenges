@@ -1,24 +1,40 @@
 # Challenges
 This repo is to solve coding challenges, in order to practice algorithms and data structures
 
+
+### Weekly Challenge [May 10th - 16th]
+
+[ | ] [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
+
+[ | ] [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+
+
+### Weekly Challenge [May 3rd - 9th]
+
+[ | ] [155. Min Stack](https://leetcode.com/problems/min-stack/)
+
+[ | ] [268. Missing Number](https://leetcode.com/problems/missing-number/)
+
+
 ### Weekly Challenge [April 26th - May 2nd]
 
 [ | ] [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 
-[ |X] [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)
-
+[ | ] [66. Plus One](https://leetcode.com/problems/plus-one/)
 
 ### Weekly Challenge [April 19th - 25th]
 
-[ |X] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+[ | ] [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 
 [ | ] [38. Count and Say](https://leetcode.com/problems/count-and-say/)
+
 
 ### Weekly Challenge [April 12th - 18th]
 
 [ | ] [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
-[ | ] [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+[ | ] [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+
 
 ### Weekly Challenge [April 5th - 11th]
 
@@ -26,18 +42,20 @@ This repo is to solve coding challenges, in order to practice algorithms and dat
 
 [ | ] [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 
+
 ### Weekly Challenge [March 29th- April 4th]
 
 [ | ] [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 [ | ] [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 
+
 ### Weekly Challenge [March 22nd-28th]
 
 
-[ |X] [136. Single Number](https://leetcode.com/problems/single-number/)
+[ |X] [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 
-[ | ] [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+[ |X] [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 
 
 ### Weekly Challenge [March 15th-21st]
@@ -58,7 +76,7 @@ This repo is to solve coding challenges, in order to practice algorithms and dat
 
 [ |X] [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
 
-[ | ] [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
+[ |X] [136. Single Number](https://leetcode.com/problems/single-number/)
 
 
 Note: Mark with an X when completed
