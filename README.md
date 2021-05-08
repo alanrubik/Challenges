@@ -4,10 +4,9 @@ This repo is to solve coding challenges, in order to practice algorithms and dat
 
 ### Weekly Challenge [May 10th - 16th]
 
+[ |X] [66. Plus One](https://leetcode.com/problems/plus-one/)
+
 [ | ] [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
-
-[ | ] [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
-
 
 ### Weekly Challenge [May 3rd - 9th]
 
@@ -20,7 +19,7 @@ This repo is to solve coding challenges, in order to practice algorithms and dat
 
 [ | ] [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 
-[ | ] [66. Plus One](https://leetcode.com/problems/plus-one/)
+[ | ] [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 
 ### Weekly Challenge [April 19th - 25th]
 
