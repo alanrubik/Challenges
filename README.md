@@ -1,6 +1,11 @@
 # Challenges
 This repo is to solve coding challenges, in order to practice algorithms and data structures
 
+### Weekly Challenge [May 17th - 23rd]
+
+[ | ] [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+
+[ | ] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 ### Weekly Challenge [May 10th - 16th]
 
