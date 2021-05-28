@@ -1,6 +1,12 @@
 # Challenges
 This repo is to solve coding challenges, in order to practice algorithms and data structures
 
+### Weekly Challenge [May 24th - 30th]
+
+[ | ] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+
+[ | ] [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+
 ### Weekly Challenge [May 17th - 23rd]
 
 [ | ] [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
